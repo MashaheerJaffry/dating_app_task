@@ -1,0 +1,1 @@
+ D:\\datingApp\\dating_app\\.dart_tool\\flutter_build\\bd5f7e9afdf51123529b450e0f10038f\\native_assets.yaml: 
